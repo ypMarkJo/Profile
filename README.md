@@ -43,29 +43,30 @@
   
   ## Programming Skills
   ![image](https://user-images.githubusercontent.com/80379900/110747182-4f6f0500-8281-11eb-969a-27a96f246fe0.png)
+  
   ### [Languages]
   
-  * ### C/C++ ### 
+   * ### C/C++ ### 
   
     개발자가 되기 위한 교육의 입문언어였으며,반복문,조건문,자료구조,메모리관리,포인터 등의 다양한 문법을 학습한 도구였습니다.
     STL과 iterator를 활용해 Nqueen,Maze 수준의 알고리즘을 해결할 수 있습니다.MFC와 mysql을 연동해 DB를 CRUD할 수 있고, 
     이를 이용해 맛집기록프로그램 "나슐랭"을 제작했습니다.
     
-  * ### JAVA ###
+   * ### JAVA ###
 
     기본적인 자바의 문법을 학습했으며, Interface,Stream,collection framework를 이해하고 API를 이용해 Bug,BSTsplit,Ledger,Lotto generator등
     중급 수준의 알고리즘 문제를 해결할 수 있습니다. 
   
-  * ### JavaScript/html ###
+   * ### JavaScript/html ###
 
     html의 기초를 구글링하면서 서버를 구동하고 홈페이지를 제작한 뒤 로그인 후 사진이나 동영상등의 파일을 업로드할 수 있습니다.
     라우터와 RestAPI의 개념을 이해하고 express를 이용해 블록체인 비트코인 네트워크를 구현하는 실습을 진행했습니다.
    
-  * ### Python ###
+   * ### Python ###
 
     기초문법을 학습하고 DFS방식을 이용하는 Maze알고리즘 문제를 해결할 수 있습니다.컴파일러 방식의 C++과 인터프리터 방식의 Python의 차이를 이해합니다.
   
-  * ### SQL ###
+   * ### SQL ###
 
     Mysql을 이용해 기초적인 SQL문법을 학습했고 나만의 DB를 만들고 CRUD할 수 있습니다.
     
