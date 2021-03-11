@@ -85,11 +85,11 @@
 
     Workbench,CMD,VS 등 다양한 환경에서 데이터를 CRUD할 수 있습니다.
   
-    * ### Virtual Box/Ubuntu ###
+   * ### Virtual Box/Ubuntu ###
 
     Windows 환경에서 가상머신을 통해 Ubuntu로 Linux환경을 만들고 이용할 수 있습니다. 단축키를 이용해 다양한 확장기능을 이용할 수 있습니다.
    
-    * ### intelliJ/Gradle ###
+   * ### intelliJ/Gradle ###
 
     intelliJ로 프로젝트를 생성하고 Gradle의 설치와 단축키 학습을 통해 효율적인 JAVA코딩이 가능합니다.
    
