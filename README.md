@@ -45,6 +45,6 @@
   ![image](https://user-images.githubusercontent.com/80379900/110747182-4f6f0500-8281-11eb-969a-27a96f246fe0.png)
   ### [Languages]
   
-  * ### C/C++ * 
+  * ### C/C++ ### 
   - 개발자가 되기 위한 교육의 입문언어였으며,반복문,조건문,자료구조,메모리관리,포인터 등의 다양한 문법을 학습한 도구였습니다.
-  STL과 iterator를 활용해 Nqueen,Maze 수준의 알고리즘을 해결할 수 있습니다.MFC와 mysql을 연동해
+    STL과 iterator를 활용해 Nqueen,Maze 수준의 알고리즘을 해결할 수 있습니다.MFC와 mysql을 연동해
