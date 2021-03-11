@@ -68,3 +68,33 @@
   * ### SQL ###
 
     Mysql을 이용해 기초적인 SQL문법을 학습했고 나만의 DB를 만들고 CRUD할 수 있습니다.
+    
+   ### [Blockchain]
+   
+   * ### Bitcoin ###
+
+    JS를 통해 비트코인을 코딩하고 채굴,POW,Node등록과 동기화 등의 주요기능을 구현할 수 있습니다.
+   
+   ### [Tools]
+   
+   * ### VS/VS Code ###
+
+     VS/VS Code를 이용해 C++,python,Js등 다양한 언어를 코딩할 수 있고,VS의 MFC확장기능을 통해 데이터베이스를 관리할 수 있습니다.
+
+   * ### MySql ###
+
+    Workbench,CMD,VS 등 다양한 환경에서 데이터를 CRUD할 수 있습니다.
+  
+  * ### Virtual Box/Ubuntu ###
+
+    Windows 환경에서 가상머신을 통해 Ubuntu로 Linux환경을 만들고 이용할 수 있습니다. 단축키를 이용해 다양한 확장기능을 이용할 수 있습니다.
+   
+  * ### intelliJ/Gradle ###
+
+    intelliJ로 프로젝트를 생성하고 Gradle의 설치와 단축키 학습을 통해 효율적인 JAVA코딩이 가능합니다.
+   
+  * ### github ###
+
+    github를 통해 저장소를 생성하고 add,commit,push,pull,fetch를 이용해 효율적인 소스코드관리와 공유가 가능합니다.
+
+    
