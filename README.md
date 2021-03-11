@@ -54,9 +54,9 @@
   * ### JAVA ###
 
     기본적인 자바의 문법을 학습했으며, Interface,Stream,collection framework를 이해하고 API를 이용해 Bug,BSTsplit,Ledger,Lotto generator등
-    중급 수준의 알고리즘 문제를 해결할 수 있습니다.
+    중급 수준의 알고리즘 문제를 해결할 수 있습니다. 
   
-  * ### JavaScript ###
+  * ### JavaScript/html ###
 
     html의 기초를 구글링하면서 서버를 구동하고 홈페이지를 제작한 뒤 로그인 후 사진이나 동영상등의 파일을 업로드할 수 있습니다.
     라우터와 RestAPI의 개념을 이해하고 express를 이용해 블록체인 비트코인 네트워크를 구현하는 실습을 진행했습니다.
