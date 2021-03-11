@@ -9,7 +9,7 @@
 
     
   ---
-  >**"Nur tote Fische schwimmen mit dem Strom"***
+  >***"Nur tote Fische schwimmen mit dem Strom"***
   >
   >#### - 죽은 물고기만이 강의 흐름을 따른다. ####
   
